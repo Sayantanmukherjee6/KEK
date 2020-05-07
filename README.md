@@ -16,7 +16,7 @@
 
 ### <u>Installing and Configuring Fluentd</u>
 * https://docs.fluentd.org/installation/install-by-deb
-* td-agent.conf is located at <b>/etc/td-agent.conf</b>
+* td-agent.conf is located at <b>/etc/td-agent/td-agent.conf</b>
 * After modification of td-agent.conf file run <b> sudo service td-agent restart.</b>
 
 ### <u>Sources</u>
