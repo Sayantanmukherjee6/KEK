@@ -10,7 +10,7 @@
 
  	* ![Image of /etc/hosts/](https://miro.medium.com/max/198/1*0GdRZygt5BzxZq17adpunA.png)   
  
- * Create the Kafka-Connector by using Kafka-Connect API (An sample JSON is provided : <b>connector.json</b>).
+ * Create the Kafka-Connector by using Kafka-Connect API (A sample JSON is provided : <b>connector.json</b>).
  * Dump system/code logs in <b> /tmp/logs/</b>  directory.
  * Open Kibana (<b>http://localhost:5601</b>) and configure index pattern for the current topic. After it is configured properly, in the Discover tab of Kibana the logs will be displayed.
 
